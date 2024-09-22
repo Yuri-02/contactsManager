@@ -1,0 +1,13 @@
+.formContainer{
+    width: 100%;
+    min-width: 320px;
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 2px solid #000;
+    padding: 16px 0px;
+    gap: 8px;
+}
+
+.formContainer input{
+    max-width: 240px ;
+}

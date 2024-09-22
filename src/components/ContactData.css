@@ -1,0 +1,43 @@
+.dataContainer {
+    width: 100%;
+    min-width: 320px;
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid #000;
+    
+}
+
+
+
+.unorderedList{
+    margin:0px;
+    
+}
+
+.dataContactList{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-around;
+    gap: 16px;
+}
+
+.editButton{
+    height: 32px;
+    width: 32px;
+}
+
+.editIcon{
+    height: 16px;
+    width: 16px;
+}
+
+.binButton{
+    height: 32px;
+    width: 32px;
+}
+
+.binIcon{
+    height: 16px;
+    width: 16px;
+}
